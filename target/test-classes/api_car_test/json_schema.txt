@@ -1,0 +1,65 @@
+[
+  {
+    "make": "Audi",
+    "model": "A7",
+    "vin": "09AGHY64352JITEG98K",
+    "metadata": {
+      "Color": "Black",
+      "Notes": "Scratches on the front side of the car"
+    },
+    "perdayrent": {
+      "Price": 140,
+      "Discount": 15
+    },
+    "metrics": {
+      "yoymaintenancecost": 2190.76,
+      "depreciation": 2256.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 221
+      }
+    }
+  },
+ {
+    "make": "honda",
+    "model": "crv",
+    "vin": "09AGHDGH56JITEG98K",
+    "metadata": {
+      "Color": "gray",
+      "Notes": "Side color faded of the car"
+    },
+    "perdayrent": {
+      "Price": 120,
+      "Discount": 20
+    },
+    "metrics": {
+      "yoymaintenancecost": 3012.46,
+      "depreciation": 2256.43,
+      "rentalcount": {
+        "lastweek": 4,
+        "yeartodate": 221
+      }
+    }
+  },
+ {
+    "make": "tesla",
+    "model": "m12",
+    "vin": "093453BHGTEG98K",
+    "metadata": {
+      "Color": "blue",
+      "Notes": "Side mirror image is faded of the car"
+    },
+    "perdayrent": {
+      "Price": 100,
+      "Discount": 12
+    },
+    "metrics": {
+      "yoymaintenancecost": 3412.46,
+      "depreciation": 2356.43,
+      "rentalcount": {
+        "lastweek": 3,
+        "yeartodate": 221
+      }
+    }
+  }
+]
